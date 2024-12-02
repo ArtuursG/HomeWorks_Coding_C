@@ -1,1 +1,10 @@
-.vscode/ 
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+
+# Ignore PowerPoint files
+*.pptx
